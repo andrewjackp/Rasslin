@@ -19,10 +19,26 @@ const data =
     {
         "title": "Kenta Kobashi vs. Yoshiro Takayama",
         "date": "04/25/2004",
-        "promotion": "Pro Wrestling Noah",
+        "promotion": "Pro Wrestling NOAH",
         "rating": "**** 1/2",
         "image": require("./Images/takayama.gif"),
         "link" : "https://www.cagematch.net/?id=111&nr=2550"
+    },
+    {
+        "title": "Eddie Guerrero vs. Rey Mysterio",
+        "date": "10/26/1997",
+        "promotion": "World Championship Wrestling",
+        "rating": "**** 3/4",
+        "image": require("./Images/eddiereygif.gif"),
+        "link" : "https://www.cagematch.net/?id=111&nr=1095"
+    },
+    {
+        "title": "Go Shiozaki vs. Takashi Sugiura",
+        "date": "12/06/2020",
+        "promotion": "Pro Wrestling NOAH",
+        "rating": "*****",
+        "image": require("./Images/shiozakigif.gif"),
+        "link" : "https://www.cagematch.net/?id=111&nr=25090"
     }
 
 ]
