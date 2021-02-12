@@ -28,13 +28,13 @@ function MatchCarousel() {
                   />
                 </div>
                 <div className="mt-4">
-                  <p
+                  <h5
                     className="title-heading"
                   >
                    WON RATING:  {item.rating}
-                  </p>
-                  <p>{item.title}</p>
-                  <p >{item.date}</p>
+                  </h5>
+                  <h6>{item.title}</h6>
+                  <h6 >{item.date}</h6>
                   <a href={item.link}>Match Link</a>
                 </div>
               </div>

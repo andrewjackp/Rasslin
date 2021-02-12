@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-import Matches from "./Matches";
 import MatchCarousel from "./MatchCarousel"
 
 function App() {
