@@ -39,7 +39,8 @@ const data =
         "rating": "*****",
         "image": require("./Images/shiozakigif.gif"),
         "link" : "https://www.cagematch.net/?id=111&nr=25090"
-    }
+    },
+  
 
 ]
 export default data;

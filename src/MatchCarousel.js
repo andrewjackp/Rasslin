@@ -31,7 +31,7 @@ function MatchCarousel() {
                   <h5
                     className="title-heading"
                   >
-                   WON RATING:  {item.rating}
+                   MELTZER RATING:  {item.rating}
                   </h5>
                   <h6>{item.title}</h6>
                   <h6 >{item.date}</h6>
